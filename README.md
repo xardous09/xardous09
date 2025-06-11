@@ -9,9 +9,10 @@
 
 ## 🧑‍💻 Profile Summary
 
-I'm an innovation-driven final-year B.Tech student in Artificial Intelligence and Machine Learning at Sanjay Ghodawat University (CGPA: 9.01). I specialize in designing real-world AI systems — from deep learning models to full-stack AI solutions. My current passion lies in **building agentic AI systems** and contributing to impactful open-source projects.
+I'm a technology-driven AI/ML developer with hands-on experience building scalable, real-world solutions across domains like document classification, blockchain analytics, predictive maintenance, and generative AI. My expertise spans from deep learning pipelines to full-stack ML deployment. I’m currently leading the development of **VISHWAMITRA** – an AI agentic system for intelligent business consulting, powered by coordinated agents specializing in diagnostics, analysis, insight generation, and strategic synthesis.
 
-Currently developing **VISHWAMITRA**, an advanced **AI Business Consulting Agent** inspired by top consulting firms. It features multiple interconnected AI agents for diagnostics, analysis, insight generation, and strategic recommendations.
+I bring a sharp focus on modular design, model evaluation, and production readiness, and I'm passionate about building tools that bridge research with business impact.
+
 
 ---
 
